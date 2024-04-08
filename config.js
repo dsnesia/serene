@@ -3,12 +3,11 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6285880029379', 'nansoffc', true],
-  ['6285174306183']
+  ['6288220195739', 'Firu', true]
 ] // nomor owner
 
-global.mods = ['6285880029379'] 
-global.prems = ['6285880029379', '6285174306183']
+global.mods = ['6288220195739'] 
+global.prems = ['6288220195739']
 global.APIs = { // API Prefix
   // name: 'https://website' 
   nrtm: 'https://fg-nrtm.ddns.net',
@@ -26,13 +25,13 @@ global.lann = 'nananakorang'
 global.limit = 69
 
 // Sticker WM
-global.packname = 'Sticker' 
-global.author = '@nans' 
+global.packname = 'Sticker by Serene' 
+global.author = '@deespedia' 
 //--info NS [ NANS ]
 global.NSnama = 'Serene Simple Bot WhatsApp'
-global.NSig = 'https://www.instagram.com/nansoffc' 
-global.NSgc = 'https://whatsapp.com/channel/0029VaBl0VOAInPsCK1JJG3A'
-global.NSthumb = 'https://i.ibb.co/Bt5GrzK/serene-by-nansoffc-simple-bot-whatsapp.jpg'
+global.NSig = 'https://www.instagram.com/deespedia' 
+global.NSgc = 'https://chat.whatsapp.com/Cca030FqbWc0IjBO9PqnbA'
+global.NSthumb = 'https://i.pinimg.com/564x/57/0d/d2/570dd216bcae1a573e86109b5950540c.jpg'
 
 global.wait = '*⌛ _Loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.eror = 'Error, Kesalahan tidak terduga'
